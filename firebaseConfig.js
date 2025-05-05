@@ -1,6 +1,5 @@
-// StreamingAssets/firebaseConfig.js
-console.log("Starting firebaseConfig.js execution");
 
+console.log("Starting firebaseConfig.js execution");
 // Your Firebase configuration
 const firebaseConfig = {
     apiKey: "AIzaSyAeDX5Bza_Vo39bEKNWDEAfiTIn8qKpPpw",
